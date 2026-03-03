@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "gemini-critic": {
+      "command": "/home/obara/first-app/Claude Code Week Forge/.venv/bin/python3",
+      "args": [
+        "/home/obara/first-app/Claude Code Week Forge/server.py"
+      ],
+      "env": {
+        "GEMINI_API_KEY": "replace-with-your-local-gemini-api-key"
+      }
+    }
+  }
+}
